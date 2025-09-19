@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 st.set_page_config(page_title="GitGoing Contributors", layout="wide")
-st.title("GitGoing Workshop Profiles 🚀")
+st.title("GitGoing Workshop Profiles")
 
 contributors_folder = Path("contributors")
 
